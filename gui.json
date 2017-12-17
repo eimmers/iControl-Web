@@ -138,8 +138,8 @@
           "contextMenuLabel3": "Mute",
           "contextMenuIcon3": "Mute",
           "contextMenuCmd3": "http://192.168.100.3:5005/Huiskamer/mute",
-          "contextMenuLabel4": "Unmute",
-          "contextMenuIcon4": "speaker",
+          "contextMenuLabel4": "Mute",
+          "contextMenuIcon4": "Accept",
           "contextMenuCmd4": "http://192.168.100.3:5005/Huiskamer/unmute",
         },
         {
